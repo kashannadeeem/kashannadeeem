@@ -12,8 +12,8 @@
 
 I’m a Software Engineer currently pursuing an MSc in Data Science at the University of Hertfordshire. I enjoy building software, working with data, creating visualizations, and using machine learning to solve real-world problems. I’m always learning and looking for new ways to build useful solutions.
 
-🔭 &nbsp;I'm currently working on **I’m cleaning intentionally messy datasets and transforming them into clear, trustworthy data.**  
-🌱 &nbsp;I'm currently learning **I’m building the skills to turn raw data into real insights, working across SQL, AI, and modern data tools.**
+🔭 &nbsp;**I’m cleaning intentionally messy datasets and transforming them into clear, trustworthy data.**  
+🌱 &nbsp;**I’m building the skills to turn raw data into real insights, working across SQL, AI, and modern data tools.**
 
 ### 🛠️ Tech Stack
 
