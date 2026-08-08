@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=550&height=44&lines=Building%20things%20that%20actually%20work" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=580&height=44&lines=Building%20things%20that%20actually%20works%2C" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 I’m a Software Engineer currently pursuing an MSc in Data Science at the University of Hertfordshire. I enjoy building software, working with data, creating visualizations, and using machine learning to solve real-world problems. I’m always learning and looking for new ways to build useful solutions.
 
-🔭 &nbsp;I'm currently working on **Data Cleaning of intentionally Messy Dataset.**  
-🌱 &nbsp;I'm currently learning **SQL/AI Skills/Data Cleaning /Visualization.**
+🔭 &nbsp;I'm currently working on **Improving data quality by cleaning intentionally messy datasets — turning chaos into clarity.**  
+🌱 &nbsp;I'm currently learning **Learning to turn raw data into reliable insights — from SQL to AI.**
 
 ### 🛠️ Tech Stack
 
@@ -47,6 +47,7 @@ I’m a Software Engineer currently pursuing an MSc in Data Science at the Unive
 ### 🔗 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/kashannadeem1004?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_android" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kashannadeem1004@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
